@@ -8,11 +8,11 @@ using namespace std;
 
 int main(){
     
-   vector <string> menu;
+   vector <string> menu; //creates menu venu
    
-   menu.push_back("Pizzas");
+   menu.push_back("Pizzas");  //adds first element
    
-   menu.push_back("Tacos");
+   menu.push_back("Tacos"); //adds element to the end/back
    
    menu.push_back("Burgers");
    
