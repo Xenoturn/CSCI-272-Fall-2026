@@ -31,3 +31,8 @@ int main(){
        cout << food << " ";
    }
 }
+
+//Part B- Reflection: Why was vector a better choice?
+/*Vector was a better choice because it can dynamically resize, add and remove elements allowing better control than arrays. 
+With functions such as push_back(), insert() and erase(), controlling to contents that are in the menu are easier and seamless
+compared to arrays.*/
